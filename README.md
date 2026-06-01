@@ -196,13 +196,13 @@ Always building something.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diya--gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-gupta)
+[![LinkedIn](https://img.shields.io/badge?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-gupta-45305a295)
 [![Gmail](https://img.shields.io/badge/Gmail-diyagupta10a-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyagupta10a@gmail.com)
 [![Twitter](https://img.shields.io/badge/X_(Twitter)-diyagupta10a-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diyagupta10a)
-[![Instagram](https://img.shields.io/badge/Instagram-diya__w019-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diya_w019/)
+[![Instagram](https://img.shields.io/badge/Instagram-diya__w019-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diya_w019)
 [![Kaggle](https://img.shields.io/badge/Kaggle-diya018-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diya018)
-[![LeetCode](https://img.shields.io/badge/LeetCode-diyaw019-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/diyaw019/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-diyaw019-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/diyaw019)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://diyaguptaportfolio.netlify.app)
 
 </div>
 
