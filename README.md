@@ -207,13 +207,17 @@ Always building something.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://diyaguptaportfolio.netlify.app)
 
 </div>
+### `> ping me`
+
 <div align="center">
-[<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />]("https://www.linkedin.com/in/diya-gupta-45305a295")
-<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />  
-<img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter" />  
-<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />  
-<img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle" />  
-<img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode" />
+
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/diya-gupta-45305a295/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />](mailto:diyagupta10a@gmail.com)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter" />](https://x.com/diyagupta10a)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />](https://www.instagram.com/diya_w019/)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle" />](https://www.kaggle.com/diya018)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode" />](https://leetcode.com/u/diyaw019/)
+
 </div>
 ---
 
