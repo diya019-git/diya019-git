@@ -205,7 +205,14 @@ Always building something.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://diyaguptaportfolio.netlify.app)
 
 </div>
-
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />  
+<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />  
+<img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter" />  
+<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />  
+<img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle" />  
+<img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode" />
+</div>
 ---
 
 <div align="center">
