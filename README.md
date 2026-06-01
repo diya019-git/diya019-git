@@ -198,25 +198,11 @@ Always building something.
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-gupta-45305a295)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diya018)
-[![LinkedIn](https://img.shields.io/badge?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-gupta-45305a295)
-[![Gmail](https://img.shields.io/badge/Gmail-diyagupta10a-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyagupta10a@gmail.com)
-[![Twitter](https://img.shields.io/badge/X_(Twitter)-diyagupta10a-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diyagupta10a)
-[![Instagram](https://img.shields.io/badge/Instagram-diya__w019-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diya_w019)
-[![Kaggle](https://img.shields.io/badge/Kaggle-diya018-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diya018)
-[![LeetCode](https://img.shields.io/badge/LeetCode-diyaw019-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/diyaw019)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://diyaguptaportfolio.netlify.app)
-
-</div>
-### `> ping me`
-
-<div align="center">
-
-[<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/diya-gupta-45305a295/)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />](mailto:diyagupta10a@gmail.com)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter" />](https://x.com/diyagupta10a)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />](https://www.instagram.com/diya_w019/)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle" />](https://www.kaggle.com/diya018)&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode" />](https://leetcode.com/u/diyaw019/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyagupta10a@gmail.com)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diyagupta10a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diya_w019)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/diyaw019)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://diyaguptaportfolio.netlify.app)
 
 </div>
 ---
