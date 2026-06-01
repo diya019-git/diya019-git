@@ -195,7 +195,9 @@ Always building something.
 ### `> ping me`
 
 <div align="center">
-
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-gupta-45305a295)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diya018)
 [![LinkedIn](https://img.shields.io/badge?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-gupta-45305a295)
 [![Gmail](https://img.shields.io/badge/Gmail-diyagupta10a-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyagupta10a@gmail.com)
 [![Twitter](https://img.shields.io/badge/X_(Twitter)-diyagupta10a-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diyagupta10a)
@@ -206,7 +208,7 @@ Always building something.
 
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" url="https://www.linkedin.com/in/diya-gupta-45305a295"/>  
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />]("https://www.linkedin.com/in/diya-gupta-45305a295")
 <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />  
 <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter" />  
 <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />  
