@@ -1,16 +1,163 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**diya019-git/diya019-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██████╗ ██╗██╗   ██╗ █████╗
+██╔══██╗██║╚██╗ ██╔╝██╔══██╗
+██║  ██║██║ ╚████╔╝ ███████║
+██║  ██║██║  ╚██╔╝  ██╔══██║
+██████╔╝██║   ██║   ██║  ██║
+╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-Here are some ideas to get you started:
+### `turning raw data into real decisions`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Engineer+%7C+Builder;NL-to-SQL+%7C+Cricket+Analytics+%7C+Power+BI;3rd+Year+CS+%40+Heritage+Institute+of+Technology;1.9M+rows+processed+%E2%80%A2+0.90%2B+AUC+achieved)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=diya019-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
+
+### `> whoami`
+
+```python
+diya = {
+    "name"      : "Diya Gupta",
+    "location"  : "Kolkata, West Bengal 🇮🇳",
+    "degree"    : "B.Tech CS @ Heritage Institute of Technology",
+    "year"      : "3rd year → Expected 2027",
+    "currently" : "Building NL-to-SQL engine w/ LLM self-correction",
+    "looking_for": "Data Analyst / Data Science internship",
+    "fun_fact"  : "I analyze cricket better than most commentators 🏏"
+}
+```
+
+<br clear="right"/>
+
+---
+
+### `> ls ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+**🔤 NL-SQL Engine**
+```
+Ask questions in plain English.
+Get real SQL. Get real answers.
+```
+`FastAPI` `LLaMA 3.1` `PostgreSQL` `React`
+`Self-correcting LLM pipeline`
+`Schema-aware prompting`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0d1117?style=flat&logo=github&logoColor=00d9ff&labelColor=0d1117)](https://github.com/diya019-git/nl-sql-engine)
+
+</td>
+<td width="50%">
+
+**🏏 IPL Analytics Dashboard**
+```
+17 seasons. 950+ matches.
+1.9M+ ball-by-ball records.
+```
+`Python` `Power BI` `Pandas` `ETL`
+`8+ KPIs` `200+ players tracked`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0d1117?style=flat&logo=github&logoColor=00d9ff&labelColor=0d1117)](https://github.com/diya019-git)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📉 Churn Prediction Dashboard**
+```
+13,500+ records. ROC-AUC > 0.90.
+Deployed. Live predictions.
+```
+`XGBoost` `SMOTE` `Streamlit` `Plotly`
+`4-page interactive dashboard`
+
+[![Demo](https://img.shields.io/badge/Live-Streamlit_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
+
+</td>
+<td width="50%">
+
+**⚡ What's next?**
+```
+Real-time sports data pipeline on GCP.
+LLM agents for structured data QA.
+Always building something.
+```
+`GCP` `BigQuery` `LangChain`
+`Stay tuned → `
+
+[![GitHub](https://img.shields.io/badge/Watch-This_Space-00d9ff?style=flat&logoColor=white)](https://github.com/diya019-git)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> cat skills.json`
+
+```json
+{
+  "languages"     : ["Python", "SQL", "Java", "C"],
+  "ml_analytics"  : ["XGBoost", "Scikit-learn", "SMOTE", "Regression", "Classification"],
+  "visualization" : ["Power BI", "Tableau", "Streamlit", "Plotly", "Matplotlib"],
+  "data_eng"      : ["ETL Pipelines", "BigQuery", "GCP", "MySQL", "PostgreSQL"],
+  "llm_stack"     : ["Groq API", "LLaMA 3.1", "Prompt Engineering", "Self-correction loops"],
+  "tools"         : ["Git", "FastAPI", "React", "Jupyter", "Google Colab"]
+}
+```
+
+---
+
+### `> git log --oneline`
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=diya019-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff)
+
+</div>
+
+---
+
+### `> top languages`
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diya019-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+### `> ping me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diya--gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-diyagupta10a-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyagupta10a@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║  "In God we trust. All others must bring     ║
+║   data." — W. Edwards Deming                 ║
+╚══════════════════════════════════════════════╝
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=diya019-git&color=00d9ff&style=flat&label=profile+views)
+
+</div>
