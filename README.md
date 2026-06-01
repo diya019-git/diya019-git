@@ -117,6 +117,61 @@ Always building something.
 
 ---
 
+### `> proficiency --lang`
+
+<div align="center">
+
+| Language / Tool | Proficiency | Used In |
+|---|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ████████████░░░ `85%` | ML models, ETL, FastAPI backend |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ███████████░░░░ `75%` | NL-SQL engine, analytics, reporting |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) | ██████████░░░░░ `70%` | IPL dashboard, KPI reporting |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ████████░░░░░░░ `55%` | DSA, coursework |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ███████░░░░░░░░ `45%` | NL-SQL frontend |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ██████░░░░░░░░░ `40%` | Systems, coursework |
+
+</div>
+
+---
+
+### `> ls ./tech-stack`
+
+<div align="center">
+
+**Data & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white)
+
+**Visualization & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**LLM & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
 ### `> git log --oneline`
 
 <div align="center">
@@ -141,9 +196,13 @@ Always building something.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diya--gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-gupta-45305a295/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diya--gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-gupta)
 [![Gmail](https://img.shields.io/badge/Gmail-diyagupta10a-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyagupta10a@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://diyaguptaportfolio.netlify.app/)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-diyagupta10a-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/diyagupta10a)
+[![Instagram](https://img.shields.io/badge/Instagram-diya__w019-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diya_w019/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-diya018-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diya018)
+[![LeetCode](https://img.shields.io/badge/LeetCode-diyaw019-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/diyaw019/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
 
 </div>
 
