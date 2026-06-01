@@ -126,7 +126,7 @@ Always building something.
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ████████████░░░ `85%` | ML models, ETL, FastAPI backend |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ███████████░░░░ `75%` | NL-SQL engine, analytics, reporting |
 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) | ██████████░░░░░ `70%` | IPL dashboard, KPI reporting |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ████████░░░░░░░ `55%` | DSA, coursework |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ██████████████░░ `90%` | DSA, coursework |
 | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ███████░░░░░░░░ `45%` | NL-SQL frontend |
 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ██████░░░░░░░░░ `40%` | Systems, coursework |
 
@@ -177,16 +177,6 @@ Always building something.
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diya019-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff)
-
-</div>
-
----
-
-### `> top languages`
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diya019-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
 
 </div>
 
