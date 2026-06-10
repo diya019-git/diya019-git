@@ -81,7 +81,7 @@ Deployed. Live predictions.
 `XGBoost` `SMOTE` `Streamlit` `Plotly`
 `4-page interactive dashboard`
 
-[![Demo](https://img.shields.io/badge/Live-Streamlit_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Demo](https://img.shields.io/badge/Live-Streamlit_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://customerchurnprediction-diya.streamlit.app/)
 
 </td>
 <td width="50%">
