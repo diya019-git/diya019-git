@@ -53,7 +53,7 @@ Get real SQL. Get real answers.
 `Schema-aware prompting`
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-0d1117?style=flat&logo=github&logoColor=00d9ff&labelColor=0d1117)](https://github.com/diya019-git/nl-sql-engine)
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel&logoColor=white)](https://nl-sql-engine.vercel.app)
 </td>
 <td width="50%">
 
